@@ -10,7 +10,7 @@ Live demo: [swift-cv.vercel.app](https://swift-cv.vercel.app/)
 
 Swift CV lets users dynamically input personal details, work experience, education, skills, and more, while instantly previewing a polished CV layout. Export your finished résumé via PDF or print—perfect for desktop use.
 
-Great for practicing React fundamentals, state management, component structure, and front‑end design.:contentReference[oaicite:1]{index=1}
+Great for practicing React fundamentals, state management, component structure, and front‑end design.
 
 ---
 
